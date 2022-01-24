@@ -1,0 +1,2 @@
+# Classification_of_poisonous_mushrooms
+毒キノコの分類をするAIをkerasで実装
