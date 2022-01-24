@@ -1,2 +1,2 @@
-# Classification_of_poisonous_mushrooms
-毒キノコの分類をするAIをkerasで実装
+# ピカチューとピチューを分類する画像認識AI
+Google Colab環境で実装
